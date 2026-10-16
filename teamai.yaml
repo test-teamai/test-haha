@@ -11,3 +11,5 @@ sharing:
     injectShellProfile: true
   gitExclude:
     enabled: true
+reviewers:
+  - li
